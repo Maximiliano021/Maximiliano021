@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hola Mundo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Yo soy Maximiliano 
+- Estudiante de Ingenieria Informatica en UNLAM, Buenos Aires.
+- En formacion sobre el Desarrollo Front End. 
+- Una persona que busca siempre encontrar el equilibrio entre la eficiencia y optimizacion.
 
 <!--
 **Maximiliano021/Maximiliano021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
