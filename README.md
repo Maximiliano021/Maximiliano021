@@ -1,4 +1,4 @@
-## Hola Mundo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">
+## Hola Mundo!
 
 ### Yo soy Maximiliano 
 - Estudiante de Ingenieria Informatica en UNLAM, Buenos Aires.
